@@ -1,0 +1,2 @@
+# openssl_extract_and_decrypt
+针对IoT固件的openssl加密的暴力破解脚本
